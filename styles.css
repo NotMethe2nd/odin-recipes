@@ -6,6 +6,14 @@ h1, h2 {
     text-align: center;
 }
 
+h1 {
+    color: rgb(162, 93, 93);
+}
+
+h2 {
+    color: burlywood;
+}
+
 img {
     height: 400px;
     width: auto;
