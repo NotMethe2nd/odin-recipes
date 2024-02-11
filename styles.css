@@ -2,15 +2,6 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-h1 {
+h1, h2 {
     text-align: center;
-}
-
-.recipes {
-    text-align: center;
-}
-
-li {
-    display: inline-block;
-    background-color: aqua;
 }
